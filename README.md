@@ -3,10 +3,10 @@
 A simulated IoT temperature monitoring and control system using **Python** and **Google Sheets**.  
 It mimics temperature readings, logs them into Google Sheets every few seconds, and updates fan status based on threshold (35°C).
 
-![Terminal View](screeenshots/TerminalOutput.png)  
+![Terminal View](screenshots/TerminalOutput.png)  
 *Simulated readings being logged in real-time.*
 
-![Google Sheet View](screeenshots/SheetView.png)  
+![Google Sheet View](screenshots/SheetView.png)  
 *Live Google Sheet logging and fan control updates.*
 
 ---
